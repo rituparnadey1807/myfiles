@@ -1,0 +1,18 @@
+using interface constants
+
+Exercise:
+?	A scientific application needs to use several constants through out the application. It was decided to create an interface called PhysicalConstants. The constants that needs to be set are 
+?	Speed of light in vacuum (C):299 792 458 m/s
+?	Gravitational constant (G): 6.674 28×10-11 m3 kg-1 s-2
+?	Standard Gravitational Acceleration(g) : 9.806 65 m/s2
+?	Use these constants for a class that has following functions. 
+?	E= MC2
+?	F=G (m1  m2)/r2
+?	d=0.5 gt
+Make sure that constants names are used without repeating interface names with constants.
+Recommended duration: 30 Mins
+
+Exercise Objective(s): Overriding Object class methods
+
+Exercise:
+?	In the worker exercise, instead of printing individual attributes like name, salary and so on, if the object is printed automatically the details must be printed. Also two workers are same if their names are same. Therefore before printing salary report, a check needs to made to see if duplicate workers have been entered. If so, the duplicates must be removed from the list. 
